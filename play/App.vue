@@ -1,9 +1,11 @@
 <template>
   <div>
-    play
+
+    <SealTable />
 
   </div>
 </template>
 <script lang="ts" setup>
+import {SealTable} from "seal-ui";
 
 </script>
